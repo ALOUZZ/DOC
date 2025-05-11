@@ -1,0 +1,154 @@
+*{
+    padding:0;
+    margin: 0;
+}
+img.aa1{width: 300px;
+    width: 300px;
+}
+
+section div img.aa{
+    width: 100px;
+
+    
+}
+section{
+    height:500px;
+}
+div.aaa{
+    display:flex;
+    justify-content: center;
+    padding-top: 0.5cm;
+    
+}
+header{
+    height: 1.5cm;
+    padding-top: 0.5cm;
+    background-color:white;
+    border-bottom: 0.5px solid rgb(173, 171, 171);
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+}
+ul{
+    display: flex;
+    gap: 30px;
+
+
+}
+li{
+    list-style-type: none;
+}
+li a{
+    list-style-type: none;
+    color: gray;
+    text-decoration: none;
+    
+}
+ul li a:hover{color: rgb(6, 232, 240);
+
+}
+a .A{
+    color: aqua;
+}
+h1{
+    text-align: center;
+    color: #00BFA5;
+    font-size: 40px;
+    padding:1cm 0 1cm 0 ;
+}
+div.az{
+    display: flex;
+    justify-content: space-around;
+    padding: 0 4cm 0 4cm;
+    text-decoration: none;
+} 
+div.az div p{
+    line-height: 30px;
+    font-size: 20px;
+    padding: 1cm;
+    color: grey;
+}
+div.az div p a{
+    text-decoration: none;
+}
+div.mere{
+    display: flex;
+    justify-content: center;
+    
+}
+div.mere div{
+    width: 6cm;
+    height: 8cm; 
+    background-color: blue;
+    margin: 10px;
+    border-radius: 20px;
+}
+div.mere div.la {
+    background-color: #00BFA5;
+    display: flex;
+    flex-direction: column;
+    
+}
+div.mere div.la img.la{
+    width: 30px;
+    padding: 0.5cm;
+}
+div.mere div.lb img.la{
+    width: 30px;
+    padding: 0.5cm;
+}
+h3.h3a{
+    padding: 0 1cm 1cm 1cm;
+}
+div.mere div.lb {
+    background-color:#4F8FE2;
+    display: flex;
+    flex-direction: column;
+    
+}
+div.mere div.lc {
+    background-color: #313C48;
+    display: flex;
+    flex-direction: column;
+    
+}
+div.mere div.lc img.la{
+    width: 30px;
+    padding: 0.5cm;}
+
+div.mere1{
+    display: flex;
+    justify-content: space-around;
+}
+div.mere1 div.lien ul.w2 li a img{
+    width: 30px;
+    
+
+}
+div.mere1 div.lien ul.w2 li a img.ab{
+    width: 100px;
+
+}
+div.mere1 div.lien ul.w2 li a {
+    font-size: 20px;
+}
+section.s3{
+    display: flex;
+}
+section.s3 div.s3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section.s3 div div div div img.ss3{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+ 
+
